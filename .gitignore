@@ -1,6 +1,2 @@
 node_modules/
 dist/
-
-vite.config.*
-vitest.config.*
-tsconfig.json
