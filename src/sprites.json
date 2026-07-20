@@ -1,0 +1,191 @@
+{
+  "sun": {
+    "palette": {
+      "Y": "#FFD93D",
+      "O": "#FFA929",
+      "D": "#5C3A00",
+      "R": "#E8442E",
+      "W": "#FFFFFF"
+    },
+    "frames": {
+      "idle": [
+        ".......OO.......",
+        "..O....OO....O..",
+        "...O.YYYYYY.O...",
+        "....YYYYYYYY....",
+        "...YYYYYYYYYY...",
+        "...YYDYYYYDYY...",
+        "..YYYDYYYYDYYY..",
+        "OOYYYYYYYYYYYYOO",
+        "..YYYYYYYYYYYY..",
+        "..YYDYYYYYYDYY..",
+        "...YYDDDDDDYY...",
+        "...YYYYYYYYYY...",
+        "....YYYYYYYY....",
+        "...O.YYYYYY.O...",
+        "..O....OO....O..",
+        ".......OO......."
+      ],
+      "blink": [
+        ".......OO.......",
+        "..O....OO....O..",
+        "...O.YYYYYY.O...",
+        "....YYYYYYYY....",
+        "...YYYYYYYYYY...",
+        "...YYYYYYYYYY...",
+        "..YYDDYYYYDDYY..",
+        "OOYYYYYYYYYYYYOO",
+        "..YYYYYYYYYYYY..",
+        "..YYDYYYYYYDYY..",
+        "...YYDDDDDDYY...",
+        "...YYYYYYYYYY...",
+        "....YYYYYYYY....",
+        "...O.YYYYYY.O...",
+        "..O....OO....O..",
+        ".......OO......."
+      ],
+      "laugh1": [
+        ".......OO.......",
+        "..O....OO....O..",
+        "...O.YYYYYY.O...",
+        "....YYYYYYYY....",
+        "...YRRYYYYRRY...",
+        "...YYDYYYYDYY...",
+        "..YYYDDYYDDYYY..",
+        "OOYYYYYYYYYYYYOO",
+        "..YYYYYYYYYYYY..",
+        "..YYDWWWWWWDYY..",
+        "...YYDDDDDDYY...",
+        "...YYYDDDDYYY...",
+        "....YYYYYYYY....",
+        "...O.YYYYYY.O...",
+        "..O....OO....O..",
+        ".......OO......."
+      ],
+      "laugh2": [
+        ".......OO.......",
+        "..O....OO....O..",
+        "...O.YYYYYY.O...",
+        "....YYYYYYYY....",
+        "...YRRYYYYRRY...",
+        "...YYDYYYYDYY...",
+        "..YYYDDYYDDYYY..",
+        "OOYYYYYYYYYYYYOO",
+        "..YYYYYYYYYYYY..",
+        "..YYYDDDDDDYYY..",
+        "...YYYDDDDYYY...",
+        "...YYYYYYYYYY...",
+        "....YYYYYYYY....",
+        "...O.YYYYYY.O...",
+        "..O....OO....O..",
+        ".......OO......."
+      ],
+      "praise": [
+        ".......OO.......",
+        "..O....OO....O..",
+        "...O.YYYYYY.O...",
+        "....YYYYYYYY....",
+        "...YDDYYYYDDY...",
+        "...YYDYYYYDYY...",
+        "..YYYDYYYYDYYY..",
+        "OOYYYYYYYYYYYYOO",
+        "..YYYYYYYYYYYY..",
+        "..YYYYYDDYYYYY..",
+        "...YYYYDDYYYY...",
+        "...YYYYYYYYYY...",
+        "....YYYYYYYY....",
+        "...O.YYYYYY.O...",
+        "..O....OO....O..",
+        ".......OO......."
+      ]
+    }
+  },
+  "cloud": {
+    "palette": {
+      "W": "#FFFFFF",
+      "G": "#D6E9F5"
+    },
+    "frames": {
+      "drift": [
+        "...WWW......",
+        "..WWWWW.WW..",
+        ".WWWWWWWWWW.",
+        "WWWWWWWWWWWW",
+        ".GGWWWWWWGG."
+      ]
+    }
+  },
+  "bunny": {
+    "palette": {
+      "W": "#F5F0E8",
+      "K": "#33261A",
+      "P": "#F5A9B8"
+    },
+    "frames": {
+      "hop1": [
+        "....WW.WW...",
+        "....PW.PW...",
+        "....WWWWW...",
+        ".WW.WWKWW...",
+        ".WWWWWWWWW..",
+        "WWWWWWWWWW..",
+        ".WWWWWWWW...",
+        "..WW..WW...."
+      ],
+      "hop2": [
+        "...WW.WW....",
+        "...PW.PW....",
+        "....WWWWW...",
+        ".WW.WWKWW...",
+        ".WWWWWWWWW..",
+        "WWWWWWWWWW..",
+        ".WWWWWWWW...",
+        ".WW....WW..."
+      ]
+    }
+  },
+  "bird": {
+    "palette": {
+      "B": "#3E6BC4",
+      "O": "#F59B23"
+    },
+    "frames": {
+      "flap1": [
+        "..BB......",
+        "..BBB.....",
+        ".BBBBBBBO.",
+        "..........",
+        ".........."
+      ],
+      "flap2": [
+        "..........",
+        "..........",
+        ".BBBBBBBO.",
+        "..BBB.....",
+        "..BB......"
+      ]
+    }
+  },
+  "butterfly": {
+    "palette": {
+      "F": "#F08A24",
+      "D": "#4A3220"
+    },
+    "frames": {
+      "flut1": [
+        "FF...FF.",
+        "FFF.FFF.",
+        ".FFDFF..",
+        ".FFDFF..",
+        ".F.D.F.."
+      ],
+      "flut2": [
+        ".F...F..",
+        ".FF.FF..",
+        "..FDF...",
+        "..FDF...",
+        "...D...."
+      ]
+    }
+  }
+}
