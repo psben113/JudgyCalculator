@@ -1,7 +1,7 @@
 # Judgy Calculator — Chrome Extension
 
-A pixel-art nature calculator that lives in your toolbar. Blue sky, drifting clouds, critters
-crossing the grass — and a sun that watches what you type. Use it for math a computer deserves
+A calculator that lives in your toolbar. Blue sky, drifting clouds, critters
+crossing the grass, and a sun that watches what you type. Use it for math a computer deserves
 and all is peaceful. Use it for `5 × 5` and the sun laughs at you, mocks you in a speech
 bubble, and the whole world briefly falls into night.
 
