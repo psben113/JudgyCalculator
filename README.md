@@ -71,3 +71,4 @@ scripts/screenshot.mjs   Headless verification of the judgement flow
 Keyboard works too: digits, `+ - * /`, `Enter`/`=`, `.`, `Backspace`, `Esc` to clear, `%`.
 The sun still judges you either way.
 
+Copyright © 2026 Pranav Swaroop. All rights reserved.
